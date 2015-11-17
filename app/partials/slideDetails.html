@@ -1,0 +1,23 @@
+<div class="slide-photos">
+  <img ng-src="{{img}}"
+       class="slide"
+       ng-repeat="img in slide.photos"
+       ng-class="{active: mainPhotoUrl==img}"/>
+</div>
+
+<h1>{{slide.Title}}</h1>
+
+<p>{{slide.description}}</p>
+
+<ul class="slide-thumbs">
+  <li ng-repeat="img in slide.photos">
+    <img ng-src="{{img}}" ng-click="setPhoto(img)">
+  </li>
+</ul>
+
+<ul class="author">
+	<dt>Author</dt>
+	<li>{{slide.Author}}</li>
+	<dt>E-mail</dt>
+	<li>{{slide.Email}}</li>
+</ul>

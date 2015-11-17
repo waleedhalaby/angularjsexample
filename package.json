@@ -1,0 +1,25 @@
+{
+  "name": "angularjsexample",
+  "version": "1.0.0",
+  "description": "example for angularjs",
+  "main": "index.js",
+  "dependencies": {
+    "nodejs": "^0.0.0",
+    "bower": "^1.6.5"
+  },
+  "devDependencies": {
+    "bower": "^1.3.1",
+    "http-server": "^0.6.1"
+    },
+  "scripts": {
+    "postinstall": "bower install",
+
+    "prestart": "npm install",
+    "start": "http-server -a 0.0.0.0 -p 8000"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC"
+}

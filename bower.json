@@ -1,0 +1,22 @@
+{
+  "name": "angularjsexample",
+  "description": "example for angularjs",
+  "main": "index.js",
+  "authors": [
+    "waleed.halaby <waleed.m.halaby@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "npm"
+  ],
+  "moduleType": [],
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

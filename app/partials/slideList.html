@@ -1,0 +1,14 @@
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-3" ng-repeat="slide in slides">
+			<ul class="slides">
+			  <li class="thumbnail">
+			    <a href="#/slides/{{slide.id}}" class=""><img ng-src="{{slide.Photo}}"></a>
+			    <a href="#/slides/{{slide.id}}" class="text-center">{{slide.Title}}</a>
+			    <p>Ratings : {{slide.Ratings}}</p>
+			    <p>Number Of Slides : {{slide.NumberOfSlides}}</p>
+			  </li>
+			</ul>
+		</div>
+	</div>
+</div>

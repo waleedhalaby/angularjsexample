@@ -1,0 +1,92 @@
+[
+  {
+    "id" : "0001",
+    "Title" : "Presentation Slide 1",
+    "Photo" : "img/Revo-Logos-Business Value_Page_02.jpg",
+    "Ratings" : "88%",
+    "NumberOfSlides" : "122"
+  },
+
+  {
+    "id" : "0002",
+    "Title" : "Presentation Slide 2",
+    "Photo" : "img/Revo-Logos-Business Value_Page_03.jpg",
+    "Ratings" : "34%",
+    "NumberOfSlides" : "32"
+  },
+  {
+    "id" : "0003",
+    "Title" : "Presentation Slide 3",
+    "Photo" : "img/Revo-Logos-Business Value_Page_04.jpg",
+    "Ratings" : "65%",
+    "NumberOfSlides" : "74"
+  },
+
+  {
+    "id" : "0004",
+    "Title" : "Presentation Slide 4",
+    "Photo" : "img/Revo-Logos-Business Value_Page_05.jpg",
+    "Ratings" : "75%",
+    "NumberOfSlides" : "25"
+  },
+  {
+    "id" : "0005",
+    "Title" : "Presentation Slide 5",
+    "Photo" : "img/Revo-Logos-Business Value_Page_06.jpg",
+    "Ratings" : "34%",
+    "NumberOfSlides" : "41"
+  },
+
+  {
+    "id" : "0006",
+    "Title" : "Presentation Slide 6",
+    "Photo" : "img/Revo-Logos-Business Value_Page_07.jpg",
+    "Ratings" : "56%",
+    "NumberOfSlides" : "22"
+  },
+  {
+    "id" : "0007",
+    "Title" : "Presentation Slide 7",
+    "Photo" : "img/Revo-Logos-Business Value_Page_08.jpg",
+    "Ratings" : "98%",
+    "NumberOfSlides" : "55"
+  },
+
+  {
+    "id" : "0008",
+    "Title" : "Presentation Slide 8",
+    "Photo" : "img/Revo-Logos-Business Value_Page_08.jpg",
+    "Ratings" : "23%",
+    "NumberOfSlides" : "42"
+  },
+  {
+    "id" : "0009",
+    "Title" : "Presentation Slide 9",
+    "Photo" : "img/Revo-Logos-Business Value_Page_09.jpg",
+    "Ratings" : "77%",
+    "NumberOfSlides" : "23"
+  },
+
+  {
+    "id" : "0010",
+    "Title" : "Presentation Slide 10",
+    "Photo" : "img/Revo-Logos-Business Value_Page_10.jpg",
+    "Ratings" : "67%",
+    "NumberOfSlides" : "12"
+  },
+  {
+    "id" : "0011",
+    "Title" : "Presentation Slide 11",
+    "Photo" : "img/Revo-Logos-Business Value_Page_11.jpg",
+    "Ratings" : "89%",
+    "NumberOfSlides" : "32"
+  },
+
+  {
+    "id" : "0012",
+    "Title" : "Presentation Slide 12",
+    "Photo" : "img/Revo-Logos-Business Value_Page_12.jpg",
+    "Ratings" : "78%",
+    "NumberOfSlides" : "112"
+  }
+]
